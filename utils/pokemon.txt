@@ -1,0 +1,393 @@
+Totals:			Seen - 		Caught - 	Owned - 
+
+#	Pokémon		Location										Caught	Owned
+
+001	Bulbasaur	Route 9 (handout)									_	_
+002	Ivysaur		<Lv16>											_	_
+003	Venusaur	<Lv32>											_	_
+004	Charmander	Rock Tunnel (handout)									_	_
+005	Charmeleon	<Lv16>											_	_
+006	Charizard	<Lv36>											_	_
+007	Squirtle	Vermillion City (handout)								_	_
+008	Wartortle	<Lv16>											_	_
+009	Blastoise	<Lv36>											_	_
+010	Caterpie	Viridian Forest										_	_
+011	Metapod		<Lv07> Viridian Forest									_	_
+012	Butterfree	<Lv10> Celadon City, Pattern Bush							_	_
+013	Weedle		Viridian Forest										_	_
+014	Kakuna		<Lv07> Viridian Forest									_	_
+015	Beedrill	<Lv10> Celadon City, Pattern Bush							_	_
+016	Pidgey		Rts 1, 2, Viridian Forest, 4, Cerulean City, 5, 6, Vermilion City, 8, 12, 13, 15 ...	_	_
+017	Pidgeotto	<Lv18> Viridian Forest, Rts 8, 12, 13, Bond Bridge, Five Isle Meadow			_	_
+018	Pidgeot		<Lv36> Bond Bridge, Five Isle Meadow							_	_
+019	Rattata		Rts 1, 22, 16, Pokemon Mansion (F1)							_	_
+020	Raticate	<Lv20> Rts 16, 17, 18, Pokemon Mansion (F1, F2, F3)					_	_
+021	Spearow		Rts 10, 11, 17, Treasure Beach, Mt. Ember, Cape Brink, Ruin Valley, Canyon Entrance	_	_
+022	Fearow		<Lv20> Rts 16, 18, 23, Treasure Beach, Cape Brink, Bond Bridge, Seavault Canyon		_	_
+023	Ekans		Rts 4, 10, 11, Safari Zone (center)							_	_
+024	Arbok		<Lv22> Route 23, Victory Road (F3)							_	_
+025	Pikachu		<Happy> Viridian Forest, Route 4, Power Plant						_	_
+026	Raichu		<Thunder Stone> Cerulean Cave (B2)							_	_
+027	Sandshrew	Route 4, Safari Zone (east)								_	_
+028	Sandslash	<Lv22> Victory Road (F2, F3)								_	_
+029	Nidoran (F)	Route 1											_	_
+030	Nidorina	<Lv16> Safari Zone (west)								_	_
+031	Nidoqueen	<Moon Stone>										_	_
+032	Nidoran (M)	Route 1											_	_
+033	Nidorino	<Lv16> Safari Zone (west)								_	_
+034	Nidoking	<Moon Stone>										_	_
+035	Clefairy	<Happy> Mt. Moon (F1, B2), Bond Bridge							_	_
+036	Clefable	<Moon Stone>										_	_
+037	Vulpix		Rts 3, 7, 8, Pokemon Mansion (all floors)						_	_
+038	Ninetales	<Fire Stone>										_	_
+039	Jigglypuff	<Happy> Route 3, Bond Bridge								_	_
+040	Wigglytuff	<Moon Stone> Cerulean Cave (B1)								_	_
+041	Zubat		Mt. Moon (F1, B2), Seafoam Islands (F1, B2), Icefall Cave (F1)				_	_
+042	Golbat		<Lv22> Rock Tunnel (F1), Seafoam Islands (F1, B4), Victory Road (F1, F3) ...		_	_
+043	Oddish		Viridian Forest, Cerulean City, Rts 24, 25, 5, 12, 13, 14, 15, Cape Brink, Berry Forest	_	_
+044	Gloom		<Lv21> Rts 12, 14, Safari Zone (north), Cape Brink, Cerulean Cave (F2)			_	_
+045	Vileplume	<Leaf Stone>										_	_
+046	Paras		Mt. Moon (F1, B2)									_	_
+047	Parasect	<Lv24> Cerulean Cave (F1)								_	_
+048	Venonat		Viridian Forest, Rts 12, 15, Berry Forest						_	_
+049	Venomoth	<Lv31> Safari Zone (north), Berry Forest, Cerulean Cave (F2)				_	_
+050	Diglett		Diglett's Cave										_	_
+051	Dugtrio		<Lv26> Diglett's Cave									_	_
+052	Meowth		Rts 5, 6, 7, 8, Treasure Beach, Cape Brink, Ruin Valley					_	_
+053	Persian		<Lv28> Treasure Beach, Cape Brink, Five Isle Meadow, Ruin Valley			_	_
+054	Psyduck		Surf or Fish in many places (first available in Cerulean City)				_	_
+055	Golduck		<Lv33> SR- Route 12... Surf- Safari Zone (north)... Ground- Seafoam Islands (B2, B4)...	_	_
+056	Mankey		Rts 22, 3, Rock Tunnel (F1)								_	_
+057	Primeape	<Lv28> Route 23, Victory Road (F2), Cerulean Cave (F1)					_	_
+058	Growlithe	Rts 3, 7, 8, Pokemon Mansion (all floors)						_	_
+059	Arcanine	<Fire Stone>										_	_
+060	Poliwag		Fish in many places (first available on Route 22)					_	_
+061	Poliwhirl	<Lv25> SR - Viridian City, Route 25 ... Surf - Safari Zone (north), Berry Forest ...	_	_
+062	Poliwrath	<Water Stone>										_	_
+063	Abra		Rts 24, 8, 11										_	_
+064	Kadabra		<Lv16> Victory Road (F1), Lost Cave (rooms 8, 9, item-1), Cerulean Cave (F1)		_	_
+065	Alakazam	<Lv36> Lost Cave (item-1), Cerulean Cave (F2, B1)					_	_
+066	Machop		Route 25, Rock Tunnel (F1), Mt. Ember (outside, path to Moltres, path to Ruby room 1)	_	_
+067	Machoke		<Lv28> Victory Road (F2), Mt. Ember (path to Moltres rooms 1/2, path to Ruby room 1)	_	_
+068	Machamp		<Lv40> Cerulean Cave (B2)								_	_
+069	Bellsprout	Viridian Forest, Cerulean City, Rts 24, 25, 12, 13, 14, 15, Cape Brink, Berry Forest	_	_
+070	Weepinbell	<Lv21> Rts 12, 14, Safari Zone (north), Cape Brink, Cerulean Cave (F2)			_	_
+071	Victreebel	<Leaf Stone>										_	_
+072	Tentacool	Surf in many places (don't make me list them. Basically anywhere with saltwater)	_	_
+073	Tentacruel	<Lv30> Surf - Kindle Road, Bond Bridge, Icefall Cave (back), most of Five Island ...	_	_
+074	Geodude		Mt. Moon, Rock Tunnel, Safari Zone (east), Kindle Road, Mt. Ember, Seavault Canyon ...	_	_
+075	Graveler	<Lv25> Rock Tunnel, Kindle Road, Mt. Ember, Victory Road, Seavault Canyon ...		_	_
+076	Golem		<Lv38> Cerulean Cave (B2, Rock Smash)							_	_
+077	Ponyta		Rts 1, 17, 18, Pokemon Mansion (F1), Kindle Road					_	_
+078	Rapidash	<Lv40> Route 23, Kindle Road, Cerulean Cave (F2)					_	_
+079	Slowpoke	Route 10 (GR), Safari Zone (grass - center), Seafoam Islands (B2, B3)			_	_
+080	Slowbro		<Lv37>											_	_
+081	Magnemite	Rts 4, 10, Power Plant									_	_
+082	Magneton	<Lv30> Power Plant, Victory Road (F1), Cerulean Cave (F1)				_	_
+083	Farfetch'd	Vermilion City (trade Taillow), Route 12						_	_
+084	Doduo		Rts 1, Viridian City, 16, 17, 18, Canyon Entrance					_	_
+085	Dodrio		<Lv31> Canyon Entrance									_	_
+086	Seel		Rock Tunnel (B1), Seafoam Island (ground - all floors), Icefall Cave (ground - F1)	_	_
+087	Dewgong		<Lv34> Seafoam Islands (ground - B3, B4, Surf - B3), Icefall Cave (ground - F1)		_	_
+088	Grimer		Celadon City (OR/GR), Pokemon Mansion (F2, F3)						_	_
+089	Muk		<Lv38> Celadon City (SR), Pokemon Mansion (F3, B1)					_	_
+090	Shellder	Fish in many places (first available in Pallet Town), Ground - Seafoam Islands (B2) ...	_	_
+091	Cloyster	<Water Stone> Route 23 (SR), Bond Bridge (GR/SR), Icefall Cave (ground - B2)		_	_
+092	Gastly		Pokemon Tower (F3-F7), Pokemon Mansion (F1), Lost Cave (rooms 1, 2, 4, 10)		_	_
+093	Haunter		<Lv25> Pokemon Tower (F4-F6), Lost Cave (rooms 1, 4, 8, 9, 10 ... ), Cerulean Cave (F2)	_	_
+094	Gengar		<Lv38> Lost Cave (rooms 4, 7)								_	_
+095	Onix		Rock Tunnel (F1), Victory Road (F3), Seavault Canyon					_	_
+096	Drowzee		Route 11, Lost Cave (item-2 room)							_	_
+097	Hypno		<Lv26> Lost Cave (rooms 8, item-2)							_	_
+098	Krabby		Fish in many places (first available in Vermilion City grass), Seafoam Islands (B3) ...	_	_
+099	Kingler		<Lv28> Seafoam Islands (B3), Cerulean Cave (Rock Smash in B1)				_	_
+100	Voltorb		Route 10, Power Plant									_	_
+101	Electrode	<Lv30> Power Plant, Cerulean Cave (F1)							_	_
+102	Exeggcute	Safari Zone (north), Berry Forest							_	_
+103	Exeggutor	<Leaf Stone> Cinnabar Island (trade Granbull)						_	_
+104	Cubone		Pokemon Tower (F3-F7), Victory Road (F1), Seavault Canyon				_	_
+105	Marowak		<Lv28> Victory Road (all floors), Seavault Canyon, Cerulean Cave (F1)			_	_
+106	Hitmonlee	<Lv20, Attack > Defense> Saffron City (handout)						_	_
+107	Hitmonchan	<Lv20, Defense > Attack> Saffron City (handout)						_	_
+108	Lickitung	Cerulean City (trade Ralts), Route 21, Cerulean Cave (B1)				_	_
+109	Koffing		Celadon City (Surf), Pokemon Mansion (all floors), Mt. Ember (Path to Ruby room 2)	_	_
+110	Weezing		<Lv35> Pokemon Mansion (F1, F3, B1), Mt. Ember (Path to Ruby room 2)			_	_
+111	Rhyhorn		Safari Zone (east)									_	_
+112	Rhydon		<Lv42> Victory Road (F1, F2)								_	_
+113	Chansey		Safari Zone (north), Cape Brink								_	_
+114	Tangela		Vermilion City, Route 21, Treasure Beach						_	_
+115	Kangaskhan	Safari Zone (west)									_	_
+116	Horsea		Fish in many places (first available in Cerulean City)					_	_
+117	Seadra		<Lv32> Fish - Rts 12, 13, 19, 20, 21, Pallet Town, One Island, Treasure Beach ...	_	_
+118	Goldeen		Good Rod - Viridian City, Rts 22, 23, Fuchsia City, Cape Brink, Berry Forest ...	_	_
+119	Seaking		<Lv33> Fish - Fuchsia City, Safari Zone (center), Cape Brink, Berry Forest, Green Path	_	_
+120	Staryu		Old Rod - Pallet Town, Cerulean City, Route 25, Vermilion City ...			_	_
+121	Starmie		<Water Stone>										_	_
+122	Mr. Mime	Route 2 (trade Magnemite), Route 21, Lost Cave (rooms 7, 9)				_	_
+123	Scyther		Safari Zone (north), Pattern Bush							_	_
+124	Jynx		<Lv24>											_	_
+125	Electabuzz	<Lv24>											_	_
+126	Magmar		<Lv24>											_	_
+127	Pinsir		Safari Zone (north), Pattern Bush							_	_
+128	Tauros		Safari Zone (north, west)								_	_
+129	Magikarp	Fish basically anywhere									_	_
+130	Gyarados	<Lv20> Super Rod in most water locations. Not going to list examples.			_	_
+131	Lapras		Fuchsia City (handout), Icefall Cave (ground / Surf - F1 back chamber)			_	_
+132	Ditto		Rts 13, 15, Pokemon Mansion (F2, B1), Cerulean Cave (F1)				_	_
+133	Eevee		Celadon City (handout)									_	_
+134	Vaporeon	<Water Stone>										_	_
+135	Jolteon		<Thunder Stone>										_	_
+136	Flareon		<Fire Stone>										_	_
+137	Porygon		Celadon City (handout)									_	_
+138	Omanyte		Cinnabar Island (choose Helix Fossil from Mt. Moon, revive), Tanoby Ruins - Surf	_	_
+139	Omastar		<Lv40> Tanoby Ruins - Surf	 							_	_
+140	Kabuto		Cinnabar Island (choose Dome Fossil from Mt. Moon, revive), Tanoby Ruins - Surf		_	_
+141	Kabutops	<Lv40>											_	_
+142	Aerodactyl	Cinnabar Island (revive from Old Amber from Pewter City), Tanoby Ruins - Surf		_	_
+143	Snorlax		Rts 11, 16 (stationary)									_	_
+144	Articuno	Seafoam Island B4 (stationary)								_	_
+145	Zapdos		Power Plant (stationary)								_	_
+146	Moltres		Mt. Ember peak (stationary)								_	_
+147	Dratini		Fish - Vermilion City, Route 11, Safari Zone (center)					_	_
+148	Dragonair	<Lv30> Super Rod - Safari Zone (center)							_	_
+149	Dragonite	<Lv55>											_	_
+150	Mewtwo		Cerulean Cave B1 (stationary)								_	_
+151	Mew		Ancient Labyrinth (stationary)								_	_
+
+152	Chikorita	Route 6 Underground Path (handout)							_	_
+153	Bayleef		<Lv16>											_	_
+154	Meganium	<Lv32>											_	_
+155	Cyndaquil	Route 24 (handout)									_	_
+156	Quilava		<Lv14>											_	_
+157	Typhlosion	<Lv36>											_	_
+158	Totodile	Cerulean City (handout)									_	_
+159	Croconaw	<Lv18>											_	_
+160	Feraligatr	<Lv30>											_	_
+161	Sentret		Rts 1, 22, 2, Kindle Road, Five Isle Meadow, Canyon Entrance				_	_
+162	Furret		<Lv15> Rts 16, 17, Five Isle Meadow, Water Path						_	_
+163	Hoothoot	Rts 1, 22, 2, 3										_	_
+164	Noctowl		<Lv20>											_	_
+165	Ledyba		Celadon City										_	_
+166	Ledian		<Lv18> Celadon City, Pattern Bush							_	_
+167	Spinarak	Celadon City										_	_
+168	Ariados		<Lv22> Pattern Bush									_	_
+169	Crobat		<Happy> Cerulean Cave (all floors)							_	_
+170	Chinchou	Fish - Route 24, Safari Zone (west)							_	_
+171	Lanturn		<Lv27>											_	_
+172	Pichu		<Breed> Cerulean City									_	_
+173	Cleffa		<Breed>											_	_
+174	Igglybuff	<Breed>											_	_
+175	Togepi		Pewter City (handout)									_	_
+176	Togetic		<Happy>											_	_
+177	Natu		Rts 9, Vermilion City, 11, Ruin Valley							_	_
+178	Xatu		<Lv25> Lost Cave (room 8), Ruin Valley							_	_
+179	Mareep		Viridian City										_	_
+180	Flaaffy		<Lv15>											_	_
+181	Ampharos	<Lv30>											_	_
+182	Bellossom	<Sun Stone>										_	_
+183	Marill		Safari Zone (Surf - center), Trainer Tower (Surf, SR)					_	_
+184	Azumarill	<Lv18> Safari Zone (Surf - center), Trainer Tower (Surf)				_	_
+185	Sudowoodo	Water Path, Ruin Valley									_	_
+186	Politoed	<Lv35>											_	_
+187	Hoppip		Rts 2, 5, 7, Bond Bridge, Water Labyrinth, Five Isle Meadow, Memorial Pillar		_	_
+188	Skiploom	<Lv18> Route 7, Bond Bridge, Resort Gorgeous, Five Isle Meadow, Memorial Pillar		_	_
+189	Jumpluff	<Lv27> Memorial Pillar									_	_
+190	Aipom		Vermilion City, Three Isle Port								_	_
+191	Sunkern		Pewter City, Route 15									_	_
+192	Sunflora	<Sun Stone> Route 15									_	_
+193	Yanma		Route 4, Safari Zone (west), Water Path, Ruin Valley					_	_
+194	Wooper		Safari Zone (grass - center, Surf - west), Surf - Four Island, Ruin Valley		_	_
+195	Quagsire	<Lv20> Safari Zone (center, west), Four Island, Icefall Cave, Ruin Valley		_	_
+196	Espeon		<Sun Stone>										_	_
+197	Umbreon		<Moon Stone>										_	_
+198	Murkrow		Lost Cave (rooms 1, 2, 5, 7, 8, 10, item-1, item-3, item-4)				_	_
+199	Slowking	<Water Stone>										_	_
+200	Misdreavus	Pokemon Tower (F5-F7), Lost Cave (rooms 1, 3, 6, 7, 8, 10, item-3, item-4)		_	_
+201	Unown		Tanoby Chambers										_	_
+202	Wobbuffet	Lost Cave (rooms 9, item-3), Cerulean Cave (F1)						_	_
+203	Girafarig	Rts 16, 17, 18, Three Isle Port, Lost Cave (rooms item-1, item-3), Water Path		_	_
+204	Pineco		Route 25										_	_
+205	Forretress	<Lv31> Pattern Bush									_	_
+206	Dunsparce	Diglett's Cave, Three Isle Port								_	_
+207	Gligar		Three Isle Port										_	_
+208	Steelix		<Lv32> Cerulean Cave (B1)								_	_
+209	Snubbull	Rts 4, 9, 23, Kindle Road, Mt. Ember outside						_	_
+210	Granbull	<Lv23> Route 23, Kindle Road, Mt. Ember outside						_	_
+211	Qwilfish	Fish - Route 19, almost all of Five Island, Water Path, Green Path, Trainer Tower	_	_
+212	Scizor		<Lv42> Cerulean Cave (F2)								_	_
+213	Shuckle		Safari Zone (west), Cerulean Cave (Rock Smash - F2, B1)					_	_
+214	Heracross	Safari Zone (west), Pattern Bush							_	_
+215	Sneasel		Rock Tunnel (B1), Seafoam Islands (B4), Icefall Cave (F1)				_	_
+216	Teddiursa	Mt. Ember outside, Canyon Entrance							_	_
+217	Ursaring	<Lv30> Mt. Ember outside, Canyon Entrance						_	_
+218	Slugma		Mt. Moon (B1), Route 17, Pokemon Mansion (B1), Mt. Ember (various cave rooms)		_	_
+219	Magcargo	<Lv38> Pokemon Mansion (B1), Mt. Ember (path to Ruby), Cerulean Cave (Rock Smash)	_	_
+220	Swinub		Rock Tunnel (B1), Seafoam Islands (B1, B4), Icefall Cave (F1 rooms 1, 2)		_	_
+221	Piloswine	<Lv33> Seafoam Islands (B4), Icefall Cave (F1 rooms 2, 3)				_	_
+222	Corsola		Seafoam (B3, Fish - B3/B4), Treasure Beach, Water Path, Fish - Safari (west), 5 Island	_	_
+223	Remoraid	Fish in many areas (first available on Route 25), Surf - Route 19, Outcast Island	_	_
+224	Octillery	<Lv25> Super Rod - Safari Zone (north), Outcast Island					_	_
+225	Delibird	Rock Tunnel (B1), Seafoam Islands (B1), Icefall Cave (F1 rooms 1, 2)			_	_
+226	Mantine		Surf - Route 19, Outcast Island								_	_
+227	Skarmory	Safari Zone (east), Seavault Canyon							_	_
+228	Houndour	Viridian City										_	_
+229	Houndoom	<Lv24>											_	_
+230	Kingdra		<Lv44> Cerulean Cave (SR - F1)								_	_
+231	Phanpy		Mt. Ember outside, Canyon Entrance							_	_
+232	Donphan		<Lv25> Canyon Entrance									_	_
+233	Porygon2	<Lv31>											_	_
+234	Stantler	Safari Zone (north, west)								_	_
+235	Smeargle	Safari Zone (north, west)								_	_
+236	Tyrogue		<Breed> Saffron City (giveaway)								_	_
+237	Hitmontop	<Lv20, Attack = Defense>								_	_
+238	Smoochum	<Breed> Pallet Town (handout, choose between this, Elekid, Magby)			_	_
+239	Elekid		<Breed> Pallet Town (handout, choose between this, Smoochum, Magby)			_	_
+240	Magby		<Breed> Pallet Town (handout, choose between this, Smoochum, Elekid)			_	_
+241	Miltank		Cinnabar Island (trade Donphan), Safari Zone (center)					_	_
+242	Blissey		<Happy> Cape Brink									_	_
+243	Raikou		Volt Sanctuary at Kindle Road (stationary)						_	_
+244	Entei		Flame Sanctuary at Mt. Ember (stationary)						_	_
+245	Suicune		Aqua Sanctuary at Cape Brink (stationary)						_	_
+246	Larvitar	Mt. Moon (B1), Route 11 (trade Dratini), Rock Tunnel (F1), Mt. Ember, Seavault Canyon	_	_
+247	Pupitar		<Lv30> Seavault Canyon									_	_
+248	Tyranitar	<Lv55>											_	_
+249	Lugia		Navel Rock (stationary)									_	_
+250	Ho-oh		Navel Rock (stationary)									_	_
+251	Celebi		Yggdrasil Forest (stationary)								_	_
+
+252	Treecko		Route 2 (handout)									_	_
+253	Grovyle		<Lv16>											_	_
+254	Sceptile	<Lv36>											_	_
+255	Torchic		Route 2 (handout)									_	_
+256	Combusken	<Lv16>											_	_
+257	Blaziken	<Lv36>											_	_
+258	Mudkip		Pewter City (handout)									_	_
+259	Marshtomp	<Lv16>											_	_
+260	Swampert	<Lv36>											_	_
+261	Poochyena	Route 2											_	_
+262	Mightyena	<Lv18> Route 14										_	_
+263	Zigzagoon	Rts 22, 2, 16, Pokemon Mansion (F3), Five Isle Meadow					_	_
+264	Linoone		<Lv20> Rts 16, 17, Pokemon Mansion (F3), Five Isle Meadow				_	_
+265	Wurmple		Viridian Forest										_	_
+266	Silcoon		<Lv07, random if this or Cascoon>							_	_
+267	Beautifly	<Lv10> Celadon City, Pattern Bush							_	_
+268	Cascoon		<Lv07, random if this or Silcoon>							_	_
+269	Dustox		<Lv10> Pokemon Tower (F6), Celadon City, Pattern Bush					_	_
+270	Lotad		Grass - Route 6, Grass/Surf - Safari Zone (center), Surf/fish - Berry Forest		_	_
+271	Lombre		<Lv14> Grass - Route 6, Grass - Safari Zone (center), Surf - Berry Forest		_	_
+272	Ludicolo	<Water Stone>										_	_
+273	Seedot		Route 6, Berry Forest									_	_
+274	Nuzleaf		<Lv14> Route 6										_	_
+275	Shiftry		<Leaf Stone>										_	_
+276	Taillow		Pewter City, Rts 24, 25, 5, 6, Vermilion City, 7, Bond Bridge				_	_
+277	Swellow		<Lv22> Rts 24, 7, Bond Bridge								_	_
+278	Wingull		Vermilion City, Surf - Rts 20, 21, One Island						_	_
+279	Pelipper	<Lv25> Surf - Rts 20, 21, One Island							_	_
+280	Ralts		Viridian City, Rts 24, 25								_	_
+281	Kirlia		<Lv20> Route 25, Lost Cave (room 8)							_	_
+282	Gardevoir	<Lv30> Cerulean Cave (F2)								_	_
+283	Surskit		Viridian Forest, Berry Forest								_	_
+284	Masquerain	<Lv22>											_	_
+285	Shroomish	Rts 2, Cerulean City, 7, Berry Forest							_	_
+286	Breloom		<Lv23> Berry Forest									_	_
+287	Slakoth		Pewter City										_	_
+288	Vigoroth	<Lv18> Berry Forest									_	_
+289	Slaking		<Lv36>											_	_
+290	Nincada		Cerulean City										_	_
+291	Ninjask		<Lv20> Pattern Bush									_	_
+292	Shedinja	<Lv20 with space in party and extra Pokéball> Lost Cave (room item-3)			_	_
+293	Whismur		**Unavailable in game**									_	_
+294	Loudred		<Lv20>											_	_
+295	Exploud		<Lv40>											_	_
+296	Makuhita	Rock Tunnel (F1), Victory Road (F1), Mt. Ember (outside, path to Moltres room 3)	_	_
+297	Hariyama	<Lv24> Victory Road (F1, F2), Cerulean Cave (F1)					_	_
+298	Azurill		<Breed with Sea Incense> Surf - Trainer Tower						_	_
+299	Nosepass	Pewter City, Rock Tunnel (F1)								_	_
+300	Skitty		Viridian City, Rts 22, Pewter City, 5, 7, Kindle Road, Bond Bridge			_	_
+301	Delcatty	<Moon Stone>										_	_
+302	Sableye		Victory Road (F2), Cerulean Cave (B1)							_	_
+303	Mawile		Victory Road (F2), Mt. Ember (path to Moltres room 3)					_	_
+304	Aron		Mt. Moon (B1, B2), Rock Tunnel (F1), Safari Zone (east), Mt. Ember (path to Moltres)	_	_
+305	Lairon		<Lv32> Mt. Ember (path to Moltres)							_	_
+306	Aggron		<Lv42> Cerulean Cave (B1)								_	_
+307	Meditite	<Breed>											_	_
+308	Medicham	<Lv37> Route 18 (trade Flaaffy)								_	_
+309	Electrike	Rts 3, 4, 9, 10										_	_
+310	Manectric	<Lv26> Rts 9, 10									_	_
+311	Plusle		Route 9, Power Plant									_	_
+312	Minun		Route 9, Power Plant									_	_
+313	Volbeat		**Unknown location**									_	_
+314	Illumise	**Unknown location**									_	_
+315	Roselia		Cerulean City, Celadon City								_	_
+316	Gulpin		Rts 16, 18										_	_
+317	Swalot		<Lv26>											_	_
+318	Carvanha	Old Rod - Rts 24, 25, 6									_	_
+319	Sharpedo	<Lv30>											_	_
+320	Wailmer		Fish - Rts 4, Cerulean City, Vermilion, 11 ... Surf - Seafoam (B4), Icefall Cave	_	_
+321	Wailord		<Lv40> Surf - Seafoam Islands (B5)							_	_
+322	Numel		Mt. Moon (B1), Pokemon Mansion (F2, B1), Mt. Ember (path to Ruby rooms 1-4)		_	_
+323	Camerupt	<Lv33> Pokemon Mansion (F2), Mt. Ember (path to Ruby rooms 1, 3; return room 2)		_	_
+324	Torkoal		Mt. Moon (B1), Mt. Ember (return path from Ruby)					_	_
+325	Spoink		Lost Cave (rooms 9, item-2)								_	_
+326	Grumpig		<Lv32> Lost Cave (rooms 9, item-2)							_	_
+327	Spinda		Rts 3, 14										_	_
+328	Trapinch	Route 11, Safari Zone (east)								_	_
+329	Vibrava		<Lv35> Safari Zone (east)								_	_
+330	Flygon		<Lv45>											_	_
+331	Cacnea		Route 11, Safari Zone (east)								_	_
+332	Cacturne	<Lv32>											_	_
+333	Swablu		Viridian City, Rts 2, Pewter City, 3, 10, Three Isle Port, 23				_	_
+334	Altaria		<Lv35> Three Isle Port									_	_
+335	Zangoose	Rts 13, 14, 23										_	_
+336	Seviper		Rts 13, 14, 23										_	_
+337	Lunatone	Mt. Moon (F1, B2), Victory Road (F3)							_	_
+338	Solrock		Mt. Moon (F1, B2), Victory Road (F3)							_	_
+339	Barboach	Fish - Viridian City, Safari Zone (north, west)						_	_
+340	Whiscash	<Lv30> Fish - Safari Zone (north, west), Surf - Cerulean Cave (B1)			_	_
+341	Corphish	GR/SR - Rts 4, Vermilion City, 11, Safari Zone (north), Treasure Beach, Five Island	_	_
+342	Crawdaunt	<Lv30> Ground - Seafoam Islands (B3)							_	_
+343	Baltoy		Route 11, Safari Zone (east), Lost Cave (room item-2)					_	_
+344	Claydol		<Lv36> Lost Cave (room item-2)								_	_
+345	Lileep		Super Rod - Tanoby Ruins								_	_
+346	Cradily		<Lv40> Super Rod - Tanoby Ruins								_	_
+347	Anorith		Surf - Tanoby Ruins									_	_
+348	Armaldo		<Lv40>											_	_
+349	Feebas		Fish - Rts 6, 11, Safari Zone (north), 21, Cerulean Cave (B1)				_	_
+350	Milotic		<Lv20> Surf - Cerulean Cave (B1)							_	_
+351	Castform	Silph Co. (handout)									_	_
+352	Kecleon		Rts 15, 23										_	_
+353	Shuppet		Pokemon Tower (F3-F7), Pokemon Mansion (F1), Lost Cave (rooms 1, 2, 3, 10)		_	_
+354	Banette		<Lv37> Lost Cave (rooms 1, 3, 10, item-3)						_	_
+355	Duskull		Pokemon Tower (), Lost Cave (rooms 1, 2, 10)						_	_
+356	Dusclops	<Lv37> Lost Cave (rooms 1, 2, 10, item-1)						_	_
+357	Tropius		Safari Zone (north)									_	_
+358	Chimecho	Mt. Moon (B2), Isle Three Port, Lost Cave (item-2, item-4)				_	_
+359	Absol		Cerulean Cave (B1)									_	_
+360	Wynaut		<Breed with Lax Incense>								_	_
+361	Snorunt		Route 5 Underground Path (trade Seedot), Seafoam Islands (F1), Icefall Cave (B1)	_	_
+362	Glalie		<Lv42> Icefall Cave (B1)								_	_
+363	Spheal		Rock Tunnel (B1), Seafoam Islands (all floors, Surf), Icefall Cave (F1 rooms 1, 3)	_	_
+364	Sealeo		<Lv32> Icefall Cave (F1, all rooms; Surf - F1 room 1)					_	_
+365	Walrein		<Lv44>											_	_
+366	Clamperl	Fish - Route 22 Safari Zone (center), Surf - Route 23					_	_
+367	Huntail		<Lv18, random if this or Gorebyss>							_	_
+368	Gorebyss	<Lv18, random if this or Huntail>							_	_
+369	Relicanth	Super Rod - Tanoby Ruins								_	_
+370	Luvdisc		Fish - Rts 4, Cerulean City, 12, Safari Zone (center), Cerulean Cave (B1)		_	_
+371	Bagon		Mt. Moon (B1), Mt. Ember outside							_	_
+372	Shelgon		<Lv30> Cinnabar Island (trade Camerupt)							_	_
+373	Salamence	<Lv50>											_	_
+374	Beldum		Rock Tunnel (F1, B1), Seavault Canyon							_	_
+375	Metang		<Lv20> Seavault Canyon, Cerulean Cave (F2)						_	_
+376	Metagross	<Lv45>											_	_
+377	Regirock	Chronum Tower floor 1 (stationary)							_	_
+378	Regice		Chronum Tower floor 2 (stationary)							_	_
+379	Registeel	Chronum Tower floor 3 (stationary)							_	_
+380	Latias		Chronum Tower floor 4 (stationary)							_	_
+381	Latios		Chronum Tower floor 5 (stationary)							_	_
+382	Kyogre		Chronum Tower floor 6 (stationary)							_	_
+383	Groudon		Chronum Tower floor 7 (stationary)							_	_
+384	Rayquaza	Chronum Tower floor 8 (stationary)							_	_
+385	Jirachi		Chronum Tower floor 9 (stationary)							_	_
+386	Deoxys		Birth Island (stationary)								_	_
+
